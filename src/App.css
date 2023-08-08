@@ -43,8 +43,8 @@
 
 .del {
   font-size: 5px;
-  display: flex;
-  align-items: center;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 @keyframes char0 {
