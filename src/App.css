@@ -41,6 +41,10 @@
   text-decoration: line-through;
 }
 
+.del {
+  font-size: 5px;
+}
+
 @keyframes char0 {
     0% { color: red; }
     10% { color: orange; }
