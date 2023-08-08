@@ -43,6 +43,7 @@
 
 .del {
   font-size: 5px;
+  line-height: center;
 }
 
 @keyframes char0 {
