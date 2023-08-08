@@ -44,7 +44,7 @@
 .del {
   font-size: 5px;
   display: inline-block;
-  vertical-align: 1em;
+  vertical-align: 0.8em;
 }
 
 @keyframes char0 {
