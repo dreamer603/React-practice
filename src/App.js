@@ -6,7 +6,7 @@ import Todo from "./components/todo"
 
 function App() {
 
-  const baseUrl = "http://localhost:8080"
+  const baseUrl = "http://localhost:8081"
 
   const [todos, setTodos] = useState([]);
   const [input, setInput] = useState("");
